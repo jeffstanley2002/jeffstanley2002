@@ -136,6 +136,11 @@
       <td>Student discovery platform with real-time chat & matching</td>
       <td>Supabase, React Native</td>
     </tr>
+    <tr>
+      <td><b>Nomster</b></td>
+      <td>Community-powered food discovery platform with social reviews and lists</td>
+      <td>Vue.js, Firebase, Google Maps API</td>
+    </tr>
   </table>
 </div>
 
