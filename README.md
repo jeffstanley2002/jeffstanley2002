@@ -78,6 +78,14 @@
 <div align="center">
   <table>
     <tr>
+      <td align="center"><b>🔹 Data Analyst Intern</b><br><i>Shopee</i><br><small>May 2025 - Aug 2025</small></td>
+      <td>
+        • Working with marketing analytics team to deliver insights to business units<br>
+        • Improving and automating reporting from various marketing sources<br>
+        • Applying Python and SQL to analyze marketing data and drive data-driven decisions
+      </td>
+    </tr>
+    <tr>
       <td align="center"><b>🔹 Software Engineer Intern</b><br><i>Qumo AI</i><br><small>Jan 2025 - May 2025</small></td>
       <td>
         • Built onboarding flows and dashboards using Next.js, TypeScript, and Tailwind<br>
