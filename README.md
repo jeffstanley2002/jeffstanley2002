@@ -170,11 +170,7 @@
 
 
 
-<div align="center">
-  <h3>
-    <i>"Striving to build data-first, human-centric solutions—one model at a time."</i>
-  </h3>
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
