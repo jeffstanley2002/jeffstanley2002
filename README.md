@@ -82,7 +82,7 @@
       <td>
         • Working with marketing analytics team to deliver insights to business units<br>
         • Improving and automating reporting from various marketing sources<br>
-        • Applying Python and SQL to analyze marketing data and drive data-driven decisions
+        • Applying SQL (Presto, Spark) to analyze marketing data and drive data-driven decisions
       </td>
     </tr>
     <tr>
