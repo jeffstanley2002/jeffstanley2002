@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm <span style="color:#B892FF;">Jeffrey</span> 👋</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B892FF&center=true&width=600&lines=Business+Analytics+Sophomore;Specialising+in+Machine+Learning;Building+AI-powered+solutions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B892FF&center=true&width=600&lines=Business+Analytics+Penultimate;Specialising+in+Machine+Learning;Building+AI-powered+solutions" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🔧 About Me
 
-- 🎓 Sophomore **Business Analytics** student @ **NUS**, pursuing a **Second Major in Statistics**
+- 🎓 Penultimate **Business Analytics** student @ **NUS**, pursuing a **Second Major in Statistics**
 - 🤖 Focused on **machine learning**, **AI applications**, and **data-driven development**
 - 🛠️ Blending analytical depth with full-stack engineering to build solutions that matter
 
