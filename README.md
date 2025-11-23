@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:jeffrey.stanley@u.nus.edu"><img src="https://img.shields.io/badge/Email-jeffrey.stanley@u.nus.edu-blueviolet?style=for-the-badge&logo=gmail"></a>
   <a href="http://www.linkedin.com/in/jeffrey-stanley-148119197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://jeffrey-stanley.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-9146FF?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 
@@ -163,9 +162,7 @@
   <a href="mailto:jeffrey.stanley@u.nus.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://jeffrey-stanley.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  
 </div>
 
 
