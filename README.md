@@ -11,13 +11,17 @@
   <a href="http://www.linkedin.com/in/jeffrey-stanley-148119197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeffreystanley&style=for-the-badge&color=B892FF" alt="Profile views"/>
+</p>
+
 ---
 
 ## 🔧 About Me
 
 - 🎓 Business Analytics student @ **NUS**, pursuing a **Second Major in Statistics**
-- 🤖 Focused on **AI engineering**, **machine learning systems**, **backend platforms**, and **software engineering with AI/backend focus**
-- 🛠️ Blending full-stack engineering, backend reliability, and ML to build useful systems
+- 🤖 Focused on **AI engineering**, **agentic systems**, **machine learning**, and **backend platforms**
+- 🛠️ Blending full-stack engineering, backend reliability, and ML to build production-grade systems
 - 🚀 Interested in **AI Engineer**, **ML Engineer**, **Backend Engineer**, and **SWE with AI/backend focus** roles
 
 ---
@@ -37,16 +41,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### AI / ML
+### AI / ML / Agentic Systems
 <p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/tree--sitter-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-AA4A2B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-00A98F?style=for-the-badge" />
 </p>
 
 ### Frontend
@@ -54,10 +62,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### Backend
+### Backend & Infra
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -65,7 +74,11 @@
   <img src="https://img.shields.io/badge/C%23_API-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ### Data Engineering
@@ -76,16 +89,57 @@
   <img src="https://img.shields.io/badge/Presto-5890FF?style=for-the-badge" />
 </p>
 
-### Tools & Platforms
+### Tools, Testing & Observability
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" />
 </p>
 
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Clutch](https://clutch-ai.streamlit.app/) — AI Code Review & Mock Interview Platform
+`May 2026 – Sep 2026`
+
+A 6-node **LangGraph** agent that performs RAG-grounded code review and simulates technical interviews, returning strict Pydantic-validated structured output with citation and hallucination guardrails.
+
+- Built with **FastAPI**, **tree-sitter** static analysis, **pgvector**, and a custom read-only GitHub MCP server; deployed on **Streamlit Community Cloud**, **Render**, and **Neon Postgres**
+- Designed a **21-scenario eval suite** (15 review cases, 3 adversarial prompt-injection cases, 3 full interviews) plus a cost-capped live-model harness measuring precision/recall, citation validity, hallucination rate, latency, and $/review against a GPT-5.4-mini baseline — **118 automated tests, CI-gated**
+- Benchmarked **4 retrieval strategies** (lexical, vector, hybrid) against fixed precision/recall/nDCG gates and shipped the empirically best-performing one over the most sophisticated
+- Enforced pre-call **Redis spend ceilings**, hash-only privacy-preserving persistence, and redacted **Langfuse** tracing for cost and observability control
+
+**Stack:** LangGraph · FastAPI · tree-sitter · pgvector · Neon Postgres · Streamlit · Redis · Langfuse
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [Resonant](https://resonant-web-mu.vercel.app/#top) — Secure AI Job-Matching Agent
+`June 2026 – Sep 2026`
+
+A 9-node **LangGraph** agent pipeline that converts resumes into ranked job matches through parsing, AI skill extraction, retrieval, hybrid scoring, reasoning, and validated persistence. Built independently end-to-end.
+
+- Built with **FastAPI**, **Next.js**, and **LiteLLM**-compatible model routing; deployed on **Vercel**, **Render**, and **Supabase**
+- Designed a **cost-aware hybrid ranking pipeline** capped at 40 retrieved jobs and 12 LLM-reasoned candidates, blending deterministic skill-overlap scoring with local TF-IDF cosine similarity (80/20) — no vector database dependency
+- Engineered production safeguards: provider retry/failover, **Supabase Row-Level Security**, **Fernet-encrypted** resume data, and redacted token/cost telemetry
+- Validated reliability and security with **120 backend/security tests**, **6 Playwright end-to-end workflows**, and **5 Promptfoo red-team cases**
+
+**Stack:** LangGraph · FastAPI · Next.js · Supabase · LiteLLM · Playwright · Promptfoo
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -139,7 +193,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 More Projects
 
 <div align="center">
   <table>
@@ -196,7 +250,7 @@
 
 | Role Focus | Areas I Enjoy |
 |---|---|
-| 🤖 AI Engineer | LLM integrations, AI product features, evaluation, automation |
+| 🤖 AI Engineer | Agentic systems, LLM integrations, eval design, RAG, automation |
 | 🧠 ML Engineer | Recommender systems, ranking, modelling, offline evaluation |
 | ⚙️ Backend Engineer | APIs, auth, RBAC, databases, reliability, secure systems |
 | 💻 Software Engineer | Full-stack products with strong backend and AI/data depth |
