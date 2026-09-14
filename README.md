@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -110,17 +109,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Clutch](https://clutch-ai.streamlit.app/) — AI Code Review & Mock Interview Platform
+### 🤖 [Clutch](https://clutch-puce.vercel.app) — AI Code Review & Mock Interview Platform
 `May 2026 – Sep 2026`
 
 A 6-node **LangGraph** agent that performs RAG-grounded code review and simulates technical interviews, returning strict Pydantic-validated structured output with citation and hallucination guardrails.
 
-- Built with **FastAPI**, **tree-sitter** static analysis, **pgvector**, and a custom read-only GitHub MCP server; deployed on **Streamlit Community Cloud**, **Render**, and **Neon Postgres**
+- Built with **FastAPI**, **tree-sitter** static analysis, **pgvector**, and a custom read-only GitHub MCP server; **Next.js** frontend deployed on **Vercel**, with backend on **Render** and **Neon Postgres**
 - Designed a **21-scenario eval suite** (15 review cases, 3 adversarial prompt-injection cases, 3 full interviews) plus a cost-capped live-model harness measuring precision/recall, citation validity, hallucination rate, latency, and $/review against a GPT-5.4-mini baseline — **118 automated tests, CI-gated**
 - Benchmarked **4 retrieval strategies** (lexical, vector, hybrid) against fixed precision/recall/nDCG gates and shipped the empirically best-performing one over the most sophisticated
 - Enforced pre-call **Redis spend ceilings**, hash-only privacy-preserving persistence, and redacted **Langfuse** tracing for cost and observability control
 
-**Stack:** LangGraph · FastAPI · tree-sitter · pgvector · Neon Postgres · Streamlit · Redis · Langfuse
+**Stack:** LangGraph · FastAPI · tree-sitter · pgvector · Neon Postgres · Next.js · Redis · Langfuse
 
 </td>
 <td width="50%" valign="top">
