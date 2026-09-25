@@ -109,12 +109,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Clutch](https://clutch-puce.vercel.app) — AI Code Review & Mock Interview Platform
-`May 2026 – Sep 2026`
+### 🤖 [Clutch](https://github.com/jeffstanley2002/clutch) — AI Code Review & Mock Interview Platform
+`May 2026 – Sep 2026` · **No longer deployed**
 
 A 6-node **LangGraph** agent that performs RAG-grounded code review and simulates technical interviews, returning strict Pydantic-validated structured output with citation and hallucination guardrails.
 
-- Built with **FastAPI**, **tree-sitter** static analysis, **pgvector**, and a custom read-only GitHub MCP server; **Next.js** frontend deployed on **Vercel**, with backend on **Render** and **Neon Postgres**
+- Built with **FastAPI**, **tree-sitter** static analysis, **pgvector**, and a custom read-only GitHub MCP server; **Next.js** frontend, previously deployed on **Vercel** with backend on **Render** and **Neon Postgres**
 - Designed a **21-scenario eval suite** (15 review cases, 3 adversarial prompt-injection cases, 3 full interviews) plus a cost-capped live-model harness measuring precision/recall, citation validity, hallucination rate, latency, and $/review against a GPT-5.4-mini baseline — **118 automated tests, CI-gated**
 - Benchmarked **4 retrieval strategies** (lexical, vector, hybrid) against fixed precision/recall/nDCG gates and shipped the empirically best-performing one over the most sophisticated
 - Enforced pre-call **Redis spend ceilings**, hash-only privacy-preserving persistence, and redacted **Langfuse** tracing for cost and observability control
@@ -124,12 +124,12 @@ A 6-node **LangGraph** agent that performs RAG-grounded code review and simulate
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [Resonant](https://resonant-web-mu.vercel.app/#top) — Secure AI Job-Matching Agent
-`June 2026 – Sep 2026`
+### 🎯 [Resonant](https://github.com/jeffstanley2002/Resonant) — Secure AI Job-Matching Agent
+`June 2026 – Sep 2026` · **No longer deployed**
 
 A 9-node **LangGraph** agent pipeline that converts resumes into ranked job matches through parsing, AI skill extraction, retrieval, hybrid scoring, reasoning, and validated persistence. Built independently end-to-end.
 
-- Built with **FastAPI**, **Next.js**, and **LiteLLM**-compatible model routing; deployed on **Vercel**, **Render**, and **Supabase**
+- Built with **FastAPI**, **Next.js**, and **LiteLLM**-compatible model routing; previously deployed on **Vercel**, **Render**, and **Supabase**
 - Designed a **cost-aware hybrid ranking pipeline** capped at 40 retrieved jobs and 12 LLM-reasoned candidates, blending deterministic skill-overlap scoring with local TF-IDF cosine similarity (80/20) — no vector database dependency
 - Engineered production safeguards: provider retry/failover, **Supabase Row-Level Security**, **Fernet-encrypted** resume data, and redacted token/cost telemetry
 - Validated reliability and security with **120 backend/security tests**, **6 Playwright end-to-end workflows**, and **5 Promptfoo red-team cases**
@@ -204,9 +204,9 @@ A 9-node **LangGraph** agent pipeline that converts resumes into ranked job matc
     </tr>
     <tr>
       <td><b>FilmFlicker</b></td>
-      <td>Full-stack movie recommendation platform trained on MovieLens 32M across 87,585 movies and 32M+ ratings. Built authenticated APIs with Supabase JWT verification, PostgreSQL Row-Level Security, rate limiting, model checksum validation, health checks, and user-isolated app data.</td>
+      <td>Full-stack movie recommendation platform trained on MovieLens 32M across 87,585 movies and 32M+ ratings. Built authenticated APIs with Supabase JWT verification, PostgreSQL Row-Level Security, rate limiting, model checksum validation, health checks, and user-isolated app data. <i>No longer deployed.</i></td>
       <td>React, TypeScript, FastAPI, Supabase, PostgreSQL, Recommender Systems</td>
-      <td><a href="https://filmflicker.vercel.app/">Live Site</a></td>
+      <td><a href="https://github.com/jeffstanley2002/filmflicker">GitHub</a></td>
     </tr>
     <tr>
       <td><b>ResuRect</b></td>
